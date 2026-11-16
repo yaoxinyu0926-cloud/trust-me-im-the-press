@@ -1,0 +1,8 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "2D reporter movement prototype",
+  "Plugins": [{ "Name": "Paper2D", "Enabled": true }, { "Name": "PythonScriptPlugin", "Enabled": true, "TargetAllowList": ["Editor"] }],
+  "Modules": [{ "Name": "Reporter", "Type": "Runtime", "LoadingPhase": "Default" }]
+}

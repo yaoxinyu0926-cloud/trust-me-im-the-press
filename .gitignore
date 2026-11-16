@@ -1,0 +1,12 @@
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+*.sln
+
+# Soundtrack assets are distributed with the playable build.
+/Content/Reporter/Audio/MutedTrumpetGroove.uasset
+/Content/Reporter/Audio/FourNoteMotif.uasset
+/Content/Reporter/Audio/FinalMajorSixth.uasset
+/Content/Reporter/RuntimeArt/GymGroove.pcm
